@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
       "dev": "nodemon index.js",
-      "start": "serve -s build",
-      "heroku-postbuild": "npm run build"
+      "start": "serve -s build"
   },
   "type": "module",
   "author": "Ramiro Garcia",
