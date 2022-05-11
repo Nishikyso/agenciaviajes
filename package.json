@@ -4,8 +4,8 @@
   "description": "Primer proyecto con nodejs",
   "main": "index.js",
   "scripts": {
-      "dev": "nodemon index.js",
-      "start": "serve -s build"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "type": "module",
   "author": "Ramiro Garcia",
